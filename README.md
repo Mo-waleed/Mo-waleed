@@ -14,4 +14,4 @@ passionate frontend developer from Egypt
 
 Skills
 
-html ,css, javascript
+HTML ,CSS, JavaScript, SASS
