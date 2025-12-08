@@ -34,27 +34,6 @@ I also deploy and manage production servers using **Ubuntu VPS, PM2, and Nginx**
 - WebSocket server development
 - Event-driven architecture
 
-### ** Delivery App Backend (Talabat-Style)**
-- Restaurant management system
-- Menus, items, offers, carts
-- Real-time driver tracking with maps
-- Full order lifecycle automation
-- Multi-dashboard system (Admin – Restaurant – Driver)
-
-### ** HR System Backend**
-- Employee management & attendance
-- Productivity analytics & reports
-- Screenshot monitoring
-- Real-time notifications
-- Daily logs & tracking
-
-### ** Educational Platform Backend**
-- Video content system
-- Exams, results, comments
-- Attendance tracking
-- Multi-role dashboards (Teacher – Student – Admin)
-- Redis caching for high performance
-
 ### ** VPS Deployment & DevOps Basics**
 - Linux (Ubuntu) server setup
 - PM2 process manager
