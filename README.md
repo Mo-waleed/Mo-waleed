@@ -23,8 +23,8 @@ I also deploy and manage production servers using **Ubuntu VPS, PM2, and Nginx**
 - Building RESTful APIs (Node.js, Express)
 - Database schema design (MongoDB, MySQL/Sequelize)
 - Authentication & Authorization (JWT, RBAC)
-- Payment integration (Stripe Checkout)
-- Cloud storage (Cloudinary)
+- Payment integration (Stripe Checkout & Fawaterak Payment)
+- Cloud storage (Cloudinary & cloudflare-S3)
 - File uploads & media handling (Multer)
 - Clean architecture & modular codebase
 
