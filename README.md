@@ -1,45 +1,6 @@
 
 # **Mohamed Waleed Abdelhamid**  
-### **Backend Developer | Node.js Engineer | Real-Time Systems Developer**
-
-I specialize in building scalable backend systems, real-time applications, and complete end-to-end solutions using **Node.js, Express, MongoDB, MySQL, and modern JavaScript ecosystems**.
-
-I focus on:
-- Clean, modular architectures  
-- High performance & optimized queries  
-- Secure authentication & authorization systems  
-- Real-time communication using WebSockets / Socket.IO  
-- Building production-ready systems from scratch  
-
-I have strong experience in **delivery platforms, HR systems, educational platforms, e-commerce systems**, and real-time dashboards.
-
-I also deploy and manage production servers using **Ubuntu VPS, PM2, and Nginx** with Cloud integrations like **Stripe, Cloudinary, Google Maps**, and **WhatsApp Web automation**.
-
----
-
-## What I Do
-
-### ** Backend Development**
-- Building RESTful APIs (Node.js, Express)
-- Database schema design (MongoDB, MySQL/Sequelize)
-- Authentication & Authorization (JWT, RBAC)
-- Payment integration (Stripe Checkout & Fawaterak Payment)
-- Cloud storage (Cloudinary & cloudflare-S3)
-- File uploads & media handling (Multer)
-- Clean architecture & modular codebase
-
-### ** Real-Time Systems**
-- Live order tracking & geolocation (Socket.IO)
-- Real-time dashboards & notifications
-- WebSocket server development
-- Event-driven architecture
-
-### ** VPS Deployment & DevOps Basics**
-- Linux (Ubuntu) server setup
-- PM2 process manager
-- Nginx reverse proxy
-- Domain & SSL configuration
-- Production deployment pipelines
+### **Software Engineer**
 
 ---
 
@@ -60,39 +21,6 @@ I also deploy and manage production servers using **Ubuntu VPS, PM2, and Nginx**
 - Built responsive websites using HTML, CSS, JS, Bootstrap, React.
 - Integrated APIs and built dynamic product rendering.
 - Assisted in backend development using Node.js & Express.
-
----
-
-## Featured Projects
-
-### **1. Delivery App Backend (Talabat-Style)**
-**Stack:** Node.js, Express, MongoDB, Socket.IO, Google Maps API  
-- Real-time driver tracking  
-- Restaurant & admin dashboards  
-- Order lifecycle automation  
-- Cart, menus, offers, checkout  
-
-### **2. HR System with Real-Time Monitoring**
-**Stack:** Node.js, Express, MongoDB, Socket.IO  
-- Work tracking & analytics  
-- Screenshot monitoring  
-- Daily logs, reports, and insights  
-- Real-time notifications  
-
-### **3. Educational Platform Backend**
-**Stack:** Node.js, Express, Sequelize, MySQL  
-- Video content and lectures  
-- Exams, results, comments  
-- Attendance tracking  
-- Multi-role dashboards  
-
-### **4. E-Commerce Full-Stack Website**
-**Stack:** React, Redux, Node.js, MongoDB  
-- Admin dashboard  
-- Product management  
-- Cart & orders  
-- Stripe payment integration  
-- Search, filter, sorting  
 
 ---
 
