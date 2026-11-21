@@ -27,13 +27,13 @@
 ## Technical Skills
 
 ### **Backend**
-Node.js, Express, MongoDB, Mongoose, MySQL, Sequelize, JWT, Redis, Socket.IO, WebSockets
+Node.js, NestJS, Express, MongoDB, Mongoose, MySQL, Sequelize, JWT, Redis, Socket.IO, WebSockets
 
 ### **Frontend**
-React.js, JavaScript (ES6+), Redux Toolkit, Zustand, Tailwind CSS, Bootstrap
+Next.js, React.js, JavaScript (ES6+), Redux Toolkit, Zustand, Tailwind CSS, Bootstrap
 
 ### **Deployment**
-Ubuntu VPS, PM2, Nginx, Vercel, Cloudinary, Stripe API
+Ubuntu VPS, PM2, Nginx, Cloudflare, Vercel, Cloudinary, Stripe API
 
 ### **Tools**
 Git, GitHub, Postman, Multer, Linux Commands, MVC Architecture
